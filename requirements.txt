@@ -1,0 +1,15 @@
+# FastAPI and server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# AI Integration
+fireworks-ai==0.16.2
+
+# Payment Processing
+stripe==11.3.0
+
+# Utilities
+pydantic==2.10.5
+python-dotenv==1.0.1
+
